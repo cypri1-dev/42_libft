@@ -13,3 +13,17 @@ The library includes the following main categories:
 - **Type Conversion (`ft_atoi`, `ft_itoa`, etc.)**
 - **Math Operations (`ft_abs`, `ft_pow`, etc.)**
 - **And much more.**
+
+## Installation and compilation
+1. Clone this repository into your project:
+```bash
+git clone https://github.com/cypri1-dev/42_libft.git
+```
+2. Run the following command:
+```bash
+make
+```
+with bonus:
+```bash
+make bonus
+```
