@@ -23,7 +23,7 @@ git clone https://github.com/cypri1-dev/42_libft.git
 ```bash
 make
 ```
-with bonus:
+3. with bonus:
 ```bash
 make bonus
 ```
